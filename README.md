@@ -111,29 +111,3 @@ Identifying design properties (colors, typography, spacing) in Figma ensures:
 - Copyright information  
 
 Each component is designed for **reusability and consistency** across the application.  
-
----
-
-## ✅ Project Assessment (Hybrid)
-Your project will be evaluated primarily through **manual reviews**.  
-
-To ensure full score:  
-- Complete your project on time  
-- Submit all required files  
-- Generate your review link  
-- Have peers review your work  
-
-An **auto-check** will also verify core files needed for review.  
-
----
-
-## ⏰ Important Note
-- Deadline: **Aug 25, 2025, 12:00 AM**  
-- If the deadline passes, you **cannot generate your review link**.  
-- Submit on time to ensure evaluation.  
-
----
-
-## 🚀 Author & Contributors
-- **Team StayEase** (Frontend, Backend, Designers, QA, DevOps)  
-- Guided by project instructions and agile practices  
